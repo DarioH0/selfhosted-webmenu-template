@@ -1,0 +1,6 @@
+{
+  "COMMENT": "Here you can change the port or any other webserver related data incase it is already occupied by another app.",
+  "host": "127.0.0.1",
+  "port": 8080,
+  "initialized": 0
+}
